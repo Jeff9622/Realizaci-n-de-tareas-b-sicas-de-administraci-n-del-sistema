@@ -20,3 +20,7 @@ cat /etc/passwd
 groupadd Departamento_TI
 usermod -aG Departamento_TI Jrodriguez
 groups Jrodriguez
+Id Jrodriguez
+Chmod 000 Archivo_de_prueba.txt
+chmod 600 Archivo_de_prueba.txt
+chmod 777 Archivo_de_prueba.txt
