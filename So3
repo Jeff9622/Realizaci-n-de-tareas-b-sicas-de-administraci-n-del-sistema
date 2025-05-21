@@ -1,0 +1,22 @@
+Pwd
+ls
+Cd Documents
+Mkdir So3
+Touch Archivo_de_prueba.txt
+Nano Archivo_de_prueba.txt
+Mv Archivo_de_prueba.txt Tareas
+ls Tareas
+Cd /
+ls
+Cd /etc
+Nmtui
+Touch archivo.txt
+ls
+nano archivo.txt
+cat archivo.txt
+sudo useradd Jrodriguez
+sudo passwd Jrodriguez
+cat /etc/passwd
+groupadd Departamento_TI
+usermod -aG Departamento_TI Jrodriguez
+groups Jrodriguez
